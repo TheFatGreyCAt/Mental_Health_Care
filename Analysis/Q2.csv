@@ -1,0 +1,51 @@
+Gender,Occupation,PatientCount,Percentage
+Female,Artist,520690,4.01
+Female,Customer Service Representative,521465,4.01
+Female,Delivery Driver,520773,4.01
+Female,Executive Manager,521443,4.01
+Female,Firefighter,521407,4.01
+Female,Social Worker,521233,4.01
+Female,Veterinarian,519837,4.00
+Female,Teacher,520199,4.00
+Female,Retail Worker,519760,4.00
+Female,Restaurant Worker,519731,4.00
+Female,Paramedic,519756,4.00
+Female,Military Personnel,519486,4.00
+Female,Mental Health Counselor,519959,4.00
+Female,Lawyer,520102,4.00
+Female,Journalist,520209,4.00
+Female,Flight Attendant,519630,4.00
+Female,Farm Worker,519965,4.00
+Female,Doctor,520640,4.00
+Female,Construction Worker,519749,4.00
+Female,Call Center Operator,519668,4.00
+Female,Bus Driver,520009,4.00
+Female,IT Professional,518800,3.99
+Female,Police Officer,518696,3.99
+Female,Telemarketer,518661,3.99
+Female,Nurse,518937,3.99
+Male,Social Worker,280516,4.01
+Male,Telemarketer,280688,4.01
+Male,Firefighter,280706,4.01
+Male,Flight Attendant,280816,4.01
+Male,Veterinarian,280323,4.01
+Male,Construction Worker,279740,4.00
+Male,Call Center Operator,280120,4.00
+Male,Bus Driver,279878,4.00
+Male,Artist,279871,4.00
+Male,Restaurant Worker,279762,4.00
+Male,Teacher,279932,4.00
+Male,Retail Worker,280250,4.00
+Male,Paramedic,280295,4.00
+Male,Mental Health Counselor,280011,4.00
+Male,Journalist,279886,4.00
+Male,Farm Worker,279794,4.00
+Male,Executive Manager,279844,4.00
+Male,Doctor,280200,4.00
+Male,Delivery Driver,279984,4.00
+Male,Customer Service Representative,279719,4.00
+Male,Lawyer,279464,3.99
+Male,Police Officer,279331,3.99
+Male,IT Professional,279341,3.99
+Male,Military Personnel,279349,3.99
+Male,Nurse,279375,3.99
