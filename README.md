@@ -13,3 +13,6 @@ Dự án tập trung vào việc xây dựng một hệ thống phân tích dữ
 - Nguyễn Hoàng Tùng - 735105112  
 - Trần Gia Lộc - 735105060  
 - Tạ Minh Quang - 735105088
+
+## Video demo
+- https://www.youtube.com/watch?v=YOc9aK37n2s
