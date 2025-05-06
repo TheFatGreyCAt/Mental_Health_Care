@@ -32,5 +32,5 @@ Dự án tập trung vào việc xây dựng một hệ thống phân tích dữ
 ### Thư mục Analysis
 - **Q1.csv đến Q10.csv**: Các file CSV chứa kết quả phân tích dữ liệu từ các truy vấn SQL.
 
-## Thư mục GenData
+### Thư mục GenData
 - Bao gồm các Script Python để tạo dữ liệu liên hệ giả lập.
