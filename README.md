@@ -10,7 +10,7 @@ Dự án tập trung vào việc xây dựng một hệ thống phân tích dữ
 
 ## Thành viên nhóm
 - Nguyễn Huy Hải Ninh - 735105084  
-- Nguyễn Hoàng Tùng - 735105112  
+- Nguyễn Hoàng Tùng - 735105112 (Trưởng nhóm)
 - Trần Gia Lộc - 735105060  
 - Tạ Minh Quang - 735105088
 
